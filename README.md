@@ -1,2 +1,2 @@
-# deploy-nuxt-digitalocean
-Deploying Nuxtjs App To Digital Ocean
+# Deploy Nuxtjs Application To Digital Ocean
+Nuxtjs & DigitalOcean

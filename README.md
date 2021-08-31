@@ -1,4 +1,4 @@
-# Deploy Nuxtjs Application To Dream Host
+# Deploy Nuxtjs Application To DreamHost
 <span>Nuxtjs & Dreamhost + Passenger</span>
 
 
